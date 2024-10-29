@@ -1,0 +1,7 @@
+/Users/ankitjain/Downloads/interview/src/main/java/com/example/ankit/interview/InterviewApplication.java
+/Users/ankitjain/Downloads/interview/src/main/java/com/example/ankit/interview/controller/CustomerController.java
+/Users/ankitjain/Downloads/interview/src/main/java/com/example/ankit/interview/dto/CustomerRequest.java
+/Users/ankitjain/Downloads/interview/src/main/java/com/example/ankit/interview/entity/Customer.java
+/Users/ankitjain/Downloads/interview/src/main/java/com/example/ankit/interview/repository/CustomerRepository.java
+/Users/ankitjain/Downloads/interview/src/main/java/com/example/ankit/interview/service/CustomerService.java
+/Users/ankitjain/Downloads/interview/src/main/java/com/example/ankit/interview/service/impl/CustomerServiceImpl.java
